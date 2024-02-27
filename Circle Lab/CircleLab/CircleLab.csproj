@@ -7,8 +7,4 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Compile Include="C:\Users\jessg\source\repos\circle_lab\CircleLab.cs" Link="CircleLab.cs" />
-  </ItemGroup>
-
 </Project>
